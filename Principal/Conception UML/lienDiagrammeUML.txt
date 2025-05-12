@@ -1,2 +1,2 @@
-https://lucid.app/lucidcUse Case : hart/fa69c1a4-7c7d-4d24-bfe5-4bcb83ac77db/edit?page=0_0&invitationId=inv_909c8f10-782b-4cd7-bddd-ad1f4f84f37a#
-diagramme de class : https://lucid.app/lucidchart/c030d3d7-d235-4ed2-bff3-2b2f11c9f773/edit?page=0_0&invitationId=inv_655f87e2-8eb2-4bbe-a216-b4ad3cec8dfe#
+diagramme de class : https://lucid.app/lucidchart/1c92d6fb-29fa-46d0-82a8-6bb48c5006ad/edit?view_items=Bf5esUMOa9bh&invitationId=inv_17177b93-e137-47e6-ab7d-1e144e65b93c
+use case : 
